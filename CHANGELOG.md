@@ -1,5 +1,11 @@
 # Changes
 
+## [0.0.4](https://github.com/prantlf/karma-failure-snapshots-jasmine/compare/v0.0.3...v0.0.4) (2026-10-25)
+
+### Bug Fixes
+
+* Use node:path instead of path ([d1aea4a](https://github.com/prantlf/karma-failure-snapshots-jasmine/commit/d1aea4a84904d94fa299eda8be907a37bee0ef91))
+
 ## [0.0.3](https://github.com/prantlf/karma-failure-snapshots-jasmine/compare/v0.0.2...v0.0.3) (2026-10-25)
 
 ### Bug Fixes

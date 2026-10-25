@@ -1,6 +1,6 @@
 {
   "name": "karma-failure-snapshots-jasmine",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Karma plugin for taking snapshots of the web browser whenever a Jasmine test fails.",
   "keywords": [
     "jasmine",
